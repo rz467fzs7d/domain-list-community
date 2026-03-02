@@ -1,0 +1,28 @@
+# Plex official domains
+plex.tv
+plex.com
+plex.services
+plexapp.com
+my.plexapp.com
+watch.plex.tv
+analytics.plex.tv
+app.plex.tv
+assets.plex.tv
+clients.plex.tv
+discover.provider.plex.tv
+download.plex.tv
+lyrics.plex.tv
+mbz.plex.tv
+metadata.provider.plex.tv
+metadata-static.plex.tv
+meta.plex.tv
+mp.plex.tv
+mpm.plex.tv
+scrobbles.plex.tv
+ump.plex.tv
+acoustid.plex.tv
+images.plex.tv
+
+# Plex Direct - Required for Plex to work properly
+v4.plex.tv @direct
+domain:plex.direct @direct
